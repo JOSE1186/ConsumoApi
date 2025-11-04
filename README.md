@@ -1,4 +1,4 @@
-# 🌦️ Projeto: Sistema de Clima com API e POO em Java  
+
 
 Esse projeto foi desenvolvido com o objetivo de **colocar em prática os conhecimentos adquiridos durante o curso de Análise e Desenvolvimento de Sistemas**, aplicando **conceitos de Programação Orientada a Objetos (POO)**, **consumo de APIs REST**, **lógica de programação** e **habilidades de resolução de problemas**.  
 
